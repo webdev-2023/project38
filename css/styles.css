@@ -1,0 +1,18 @@
+li {
+    width: fit-content;
+}
+
+/* change the CSS styling of the list items to indicate that they have been bought. */
+.checked {
+    background-color: rgb(155, 236, 232);
+}
+
+/* for span elements to delete an item */
+.close {
+    display: inline-block;
+    font-weight: bolder;
+    color: red;
+    padding: 2px 7px;
+    margin-left: 5px;
+    background-color: rgb(187, 181, 181);
+}
